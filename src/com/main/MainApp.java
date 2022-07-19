@@ -41,7 +41,7 @@ public class MainApp {
 		Scanner sc =new Scanner(System.in);
 		float num1,num2;
 		int select=0;
-		
+		System.out.println("----New Title Added---");
 		while(true) {
 			System.out.println("Calculator:  ");
 			System.out.println("Enter two Numbers: ");
